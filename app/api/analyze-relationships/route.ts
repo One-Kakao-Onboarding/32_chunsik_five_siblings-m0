@@ -198,13 +198,18 @@ function getTopContactsByFrequency() {
   const results = intimacyData.results as Array<{
     target_person: string
     relationship_category: string
+    final_intimacy_score: number
     weighted_metrics: {
       frequency_score: number
+    }
+    raw_stats_summary: {
+      total_message_count: number
+      messages_this_week: number
     }
   }>
 
   return results
-    .sort((a, b) => b.weighted_metrics.frequency_score - a.weighted_metrics.frequency_score)
+    .sort((a, b) => b.final_intimacy_score - a.final_intimacy_score)
     .slice(0, 5)
     .map((r) => {
       const friend = friendsData.friends.find((f) => f.name === r.target_person)
@@ -212,7 +217,7 @@ function getTopContactsByFrequency() {
         name: r.target_person,
         category: r.relationship_category,
         profileImg: friend?.profileImg || `https://i.pravatar.cc/150?u=${r.target_person}`,
-        frequency_score: r.weighted_metrics.frequency_score,
+        frequency_score: Math.round(r.final_intimacy_score),
       }
     })
 }
@@ -278,8 +283,11 @@ export async function POST() {
 
   // 정렬
   const sorted = [...analysisResults].sort((a, b) => b.intimacyScore - a.intimacyScore)
+
+  const topContactNames = topContactsByFrequency.map((p) => p.name)
+
   const neglected = analysisResults
-    .filter((p) => p.trend === "DECLINING" || p.lastContactDaysAgo > 7)
+    .filter((p) => (p.trend === "DECLINING" || p.lastContactDaysAgo > 7) && !topContactNames.includes(p.name))
     .sort((a, b) => a.intimacyScore - b.intimacyScore)
 
   const simplifiedData = analysisResults.map((p) => ({
