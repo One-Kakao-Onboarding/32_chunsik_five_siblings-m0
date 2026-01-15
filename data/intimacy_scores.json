@@ -203,103 +203,3663 @@
       }
     },
     {
-      "target_person": "중학교 담임쌤",
-      "relationship_category": "기타",
-      "final_intimacy_score": 25.0,
+      "target_person": "강부장 (K은행)",
+      "relationship_category": "기타/지인",
+      "final_intimacy_score": 77.0,
       "weighted_metrics": {
-        "recency_score": 10,
-        "frequency_score": 10,
-        "responsiveness": "LOW",
-        "gift_score": 0,
-        "context_score": 30,
-        "interaction_trend": "DECLINING"
+        "recency_score": 100,
+        "frequency_score": 60,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 80,
+        "context_score": 60,
+        "interaction_trend": "STABLE"
       },
       "raw_stats_summary": {
-        "last_contact_days_ago": 365,
-        "messages_this_week": 0,
-        "total_message_count": 1,
-        "total_gift_expenditure": 0,
-        "missed_calls": 2
+        "last_contact_days_ago": 0,
+        "messages_this_week": 5,
+        "total_message_count": 5,
+        "total_gift_expenditure": 98000,
+        "missed_calls": 0
       }
     },
     {
-      "target_person": "서장훈 (건물주)",
-      "relationship_category": "기타/지인",
-      "final_intimacy_score": 28.5,
+      "target_person": "정대리 (직속후배)",
+      "relationship_category": "직장/팀원",
+      "final_intimacy_score": 75.2,
       "weighted_metrics": {
-        "recency_score": 15,
-        "frequency_score": 15,
-        "responsiveness": "LOW",
-        "gift_score": 10,
-        "context_score": 25,
-        "interaction_trend": "DECLINING"
+        "recency_score": 100,
+        "frequency_score": 60,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 60,
+        "context_score": 65,
+        "interaction_trend": "STABLE"
       },
       "raw_stats_summary": {
-        "last_contact_days_ago": 180,
-        "messages_this_week": 0,
-        "total_message_count": 2,
-        "total_gift_expenditure": 50000,
-        "missed_calls": 1
+        "last_contact_days_ago": 0,
+        "messages_this_week": 8,
+        "total_message_count": 8,
+        "total_gift_expenditure": 24000,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "강대표님",
+      "relationship_category": "직장/임원",
+      "final_intimacy_score": 74.0,
+      "weighted_metrics": {
+        "recency_score": 90,
+        "frequency_score": 60,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 80,
+        "context_score": 60,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 3,
+        "messages_this_week": 6,
+        "total_message_count": 6,
+        "total_gift_expenditure": 150000,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "윤과장 (경쟁사)",
+      "relationship_category": "기타",
+      "final_intimacy_score": 74.0,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 60,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 60,
+        "context_score": 60,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 6,
+        "total_message_count": 6,
+        "total_gift_expenditure": 27000,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "김영수 (대학선배)",
+      "relationship_category": "친구/동창",
+      "final_intimacy_score": 73.2,
+      "weighted_metrics": {
+        "recency_score": 90,
+        "frequency_score": 60,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 50,
+        "context_score": 75,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 3,
+        "messages_this_week": 6,
+        "total_message_count": 6,
+        "total_gift_expenditure": 12000,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "박상무 (A건설)",
+      "relationship_category": "비즈니스/VVIP",
+      "final_intimacy_score": 73.0,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 60,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 70,
+        "context_score": 50,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 8,
+        "total_message_count": 8,
+        "total_gift_expenditure": 75000,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "이진호 (고교동창)",
+      "relationship_category": "친구/동창",
+      "final_intimacy_score": 73.0,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 60,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 20,
+        "context_score": 80,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 6,
+        "total_message_count": 6,
+        "total_gift_expenditure": 4500,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "ROTC 동기회장",
+      "relationship_category": "친구/동창",
+      "final_intimacy_score": 73.0,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 60,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 20,
+        "context_score": 80,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 1,
+        "messages_this_week": 5,
+        "total_message_count": 5,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "박차장 (구매팀)",
+      "relationship_category": "비즈니스/거래처",
+      "final_intimacy_score": 72.8,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 60,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 60,
+        "context_score": 55,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 8,
+        "total_message_count": 8,
+        "total_gift_expenditure": 35000,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "송유나 (B유통 담당)",
+      "relationship_category": "비즈니스/거래처",
+      "final_intimacy_score": 72.5,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 60,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 50,
+        "context_score": 60,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 8,
+        "total_message_count": 8,
+        "total_gift_expenditure": 12700,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "김경리 (재무팀)",
+      "relationship_category": "직장/동료",
+      "final_intimacy_score": 72.2,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 60,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 40,
+        "context_score": 65,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 5,
+        "total_message_count": 5,
+        "total_gift_expenditure": 9800,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "박서방(매제)",
+      "relationship_category": "가족",
+      "final_intimacy_score": 71.8,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 60,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 20,
+        "context_score": 75,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 5,
+        "total_message_count": 5,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
       }
     },
     {
       "target_person": "황진상 (돈빌림)",
       "relationship_category": "기타",
-      "final_intimacy_score": 22.0,
+      "final_intimacy_score": 71.8,
       "weighted_metrics": {
-        "recency_score": 5,
-        "frequency_score": 5,
-        "responsiveness": "VERY_LOW",
-        "gift_score": 0,
-        "context_score": 20,
-        "interaction_trend": "DECLINING"
+        "recency_score": 100,
+        "frequency_score": 60,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 20,
+        "context_score": 75,
+        "interaction_trend": "STABLE"
       },
       "raw_stats_summary": {
-        "last_contact_days_ago": 400,
-        "messages_this_week": 0,
-        "total_message_count": 3,
+        "last_contact_days_ago": 1,
+        "messages_this_week": 6,
+        "total_message_count": 6,
         "total_gift_expenditure": 0,
-        "missed_calls": 5
-      }
-    },
-    {
-      "target_person": "대학 과대표",
-      "relationship_category": "친구/동창",
-      "final_intimacy_score": 30.2,
-      "weighted_metrics": {
-        "recency_score": 20,
-        "frequency_score": 10,
-        "responsiveness": "LOW",
-        "gift_score": 5,
-        "context_score": 40,
-        "interaction_trend": "DECLINING"
-      },
-      "raw_stats_summary": {
-        "last_contact_days_ago": 120,
-        "messages_this_week": 0,
-        "total_message_count": 2,
-        "total_gift_expenditure": 10000,
         "missed_calls": 0
       }
     },
     {
-      "target_person": "고등학교 은사님",
+      "target_person": "층간소음(아랫집)",
       "relationship_category": "기타",
-      "final_intimacy_score": 27.8,
+      "final_intimacy_score": 71.2,
       "weighted_metrics": {
-        "recency_score": 12,
-        "frequency_score": 8,
-        "responsiveness": "LOW",
-        "gift_score": 15,
-        "context_score": 35,
-        "interaction_trend": "DECLINING"
+        "recency_score": 100,
+        "frequency_score": 60,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 50,
+        "context_score": 55,
+        "interaction_trend": "STABLE"
       },
       "raw_stats_summary": {
-        "last_contact_days_ago": 200,
+        "last_contact_days_ago": 0,
+        "messages_this_week": 5,
+        "total_message_count": 5,
+        "total_gift_expenditure": 16000,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "김공장장 (평택)",
+      "relationship_category": "직장/동료",
+      "final_intimacy_score": 69.2,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 60,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 20,
+        "context_score": 65,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 1,
+        "messages_this_week": 6,
+        "total_message_count": 6,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "장동건 (군대선임)",
+      "relationship_category": "친구/동창",
+      "final_intimacy_score": 69.2,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 60,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 20,
+        "context_score": 65,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 1,
+        "messages_this_week": 5,
+        "total_message_count": 5,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "서장훈 (건물주)",
+      "relationship_category": "기타/지인",
+      "final_intimacy_score": 69.2,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 60,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 20,
+        "context_score": 65,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 1,
+        "messages_this_week": 5,
+        "total_message_count": 5,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "한과장 (직속후배)",
+      "relationship_category": "직장/팀원",
+      "final_intimacy_score": 68.0,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 60,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 20,
+        "context_score": 60,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 6,
+        "total_message_count": 6,
+        "total_gift_expenditure": 4500,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "IT지원팀 강대리",
+      "relationship_category": "직장/동료",
+      "final_intimacy_score": 68.0,
+      "weighted_metrics": {
+        "recency_score": 90,
+        "frequency_score": 60,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 40,
+        "context_score": 60,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 3,
+        "messages_this_week": 6,
+        "total_message_count": 6,
+        "total_gift_expenditure": 8000,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "중국 공장 왕사장",
+      "relationship_category": "기타",
+      "final_intimacy_score": 68.0,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 60,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 20,
+        "context_score": 60,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 5,
+        "total_message_count": 5,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "김철민 (동호회)",
+      "relationship_category": "자기계발/취미",
+      "final_intimacy_score": 68.0,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 60,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 20,
+        "context_score": 60,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 5,
+        "total_message_count": 5,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "낚시용품 사장",
+      "relationship_category": "자기계발/취미",
+      "final_intimacy_score": 68.0,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 60,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 20,
+        "context_score": 60,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 6,
+        "total_message_count": 6,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "박신입 (인턴)",
+      "relationship_category": "직장/팀원",
+      "final_intimacy_score": 66.8,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 60,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 20,
+        "context_score": 55,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 6,
+        "total_message_count": 6,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "퀵서비스 (김기사)",
+      "relationship_category": "기타",
+      "final_intimacy_score": 66.8,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 60,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 20,
+        "context_score": 55,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 5,
+        "total_message_count": 5,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "장교수 (대학원)",
+      "relationship_category": "기타",
+      "final_intimacy_score": 66.5,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 40,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 60,
+        "context_score": 50,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 4,
+        "total_message_count": 4,
+        "total_gift_expenditure": 45000,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "김프로 (레슨)",
+      "relationship_category": "자기계발/취미",
+      "final_intimacy_score": 66.2,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 40,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 50,
+        "context_score": 55,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 4,
+        "total_message_count": 4,
+        "total_gift_expenditure": 12000,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "김희철 (게임)",
+      "relationship_category": "자기계발/취미",
+      "final_intimacy_score": 65.5,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 40,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 20,
+        "context_score": 70,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 4,
+        "total_message_count": 4,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "박철호 (골프모임)",
+      "relationship_category": "자기계발/취미",
+      "final_intimacy_score": 65.5,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 40,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 20,
+        "context_score": 70,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 4,
+        "total_message_count": 4,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "낚시광 이씨",
+      "relationship_category": "자기계발/취미",
+      "final_intimacy_score": 65.5,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 40,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 20,
+        "context_score": 70,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 3,
+        "total_message_count": 3,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "신판사 (동창)",
+      "relationship_category": "친구/동창",
+      "final_intimacy_score": 64.8,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 40,
+        "responsiveness": "MEDIUM",
+        "gift_score": 20,
+        "context_score": 75,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 2,
+        "total_message_count": 2,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "영어학원 (민준)",
+      "relationship_category": "생활/서비스",
+      "final_intimacy_score": 63.5,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 40,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 40,
+        "context_score": 50,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 3,
+        "total_message_count": 3,
+        "total_gift_expenditure": 8000,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "등산모임 총무",
+      "relationship_category": "자기계발/취미",
+      "final_intimacy_score": 61.8,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 40,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 20,
+        "context_score": 55,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 3,
+        "total_message_count": 3,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "조기축구 회장",
+      "relationship_category": "자기계발/취미",
+      "final_intimacy_score": 61.8,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 40,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 20,
+        "context_score": 55,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 3,
+        "total_message_count": 3,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "헬스장 트레이너",
+      "relationship_category": "자기계발/취미",
+      "final_intimacy_score": 61.8,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 40,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 20,
+        "context_score": 55,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 3,
+        "total_message_count": 3,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "스크린골프 사장",
+      "relationship_category": "자기계발/취미",
+      "final_intimacy_score": 61.8,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 40,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 20,
+        "context_score": 55,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 3,
+        "total_message_count": 3,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "반찬가게 이모",
+      "relationship_category": "생활/단골",
+      "final_intimacy_score": 61.8,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 40,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 20,
+        "context_score": 55,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 2,
+        "total_message_count": 2,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "조세호 (참석왕)",
+      "relationship_category": "기타/지인",
+      "final_intimacy_score": 61.2,
+      "weighted_metrics": {
+        "recency_score": 90,
+        "frequency_score": 40,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 20,
+        "context_score": 65,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 3,
+        "messages_this_week": 4,
+        "total_message_count": 4,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "비서실 최비서",
+      "relationship_category": "직장/동료",
+      "final_intimacy_score": 60.5,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 40,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 20,
+        "context_score": 50,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 4,
+        "total_message_count": 4,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "박사장 (인쇄소)",
+      "relationship_category": "비즈니스/협력사",
+      "final_intimacy_score": 60.5,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 40,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 20,
+        "context_score": 50,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 1,
+        "messages_this_week": 4,
+        "total_message_count": 4,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "김사장 (동네단골)",
+      "relationship_category": "기타/지인",
+      "final_intimacy_score": 60.5,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 40,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 20,
+        "context_score": 50,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 4,
+        "total_message_count": 4,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "현대차 딜러",
+      "relationship_category": "생활/서비스",
+      "final_intimacy_score": 60.5,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 40,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 20,
+        "context_score": 50,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 2,
+        "total_message_count": 2,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "택배기사 (CJ)",
+      "relationship_category": "생활/서비스",
+      "final_intimacy_score": 60.5,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 40,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 20,
+        "context_score": 50,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 2,
+        "total_message_count": 2,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "학원 원장님 (수학)",
+      "relationship_category": "생활/서비스",
+      "final_intimacy_score": 60.5,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 40,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 20,
+        "context_score": 50,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 4,
+        "total_message_count": 4,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "피아노 선생님",
+      "relationship_category": "생활/서비스",
+      "final_intimacy_score": 60.5,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 40,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 20,
+        "context_score": 50,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 2,
+        "total_message_count": 2,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "가사 도우미",
+      "relationship_category": "생활/서비스",
+      "final_intimacy_score": 60.5,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 40,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 20,
+        "context_score": 50,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 2,
+        "total_message_count": 2,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "동물병원 원장",
+      "relationship_category": "생활/서비스",
+      "final_intimacy_score": 60.5,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 40,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 20,
+        "context_score": 50,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 2,
+        "total_message_count": 2,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "꽃집 아가씨",
+      "relationship_category": "생활/서비스",
+      "final_intimacy_score": 60.5,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 40,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 20,
+        "context_score": 50,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 4,
+        "total_message_count": 4,
+        "total_gift_expenditure": 4500,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "안경점",
+      "relationship_category": "생활/서비스",
+      "final_intimacy_score": 60.5,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 40,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 20,
+        "context_score": 50,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 2,
+        "total_message_count": 2,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "PC방 사장",
+      "relationship_category": "생활/서비스",
+      "final_intimacy_score": 60.5,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 40,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 20,
+        "context_score": 50,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 3,
+        "total_message_count": 3,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "대출상담 김실장",
+      "relationship_category": "기타",
+      "final_intimacy_score": 60.5,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 40,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 20,
+        "context_score": 50,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 2,
+        "total_message_count": 2,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "김영호 (전 직장)",
+      "relationship_category": "기타/지인",
+      "final_intimacy_score": 60.5,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 40,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 20,
+        "context_score": 50,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 4,
+        "total_message_count": 4,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "서기자",
+      "relationship_category": "기타/지인",
+      "final_intimacy_score": 60.5,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 40,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 20,
+        "context_score": 50,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 3,
+        "total_message_count": 3,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "구의원",
+      "relationship_category": "기타/지인",
+      "final_intimacy_score": 60.5,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 40,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 20,
+        "context_score": 50,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 2,
+        "total_message_count": 2,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "예비군 중대장",
+      "relationship_category": "기타",
+      "final_intimacy_score": 60.5,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 40,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 20,
+        "context_score": 50,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 2,
+        "total_message_count": 2,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "헌혈의 집",
+      "relationship_category": "기타",
+      "final_intimacy_score": 60.5,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 40,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 20,
+        "context_score": 50,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 2,
+        "total_message_count": 2,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "송지현 (첫사랑)",
+      "relationship_category": "기타/지인",
+      "final_intimacy_score": 59.8,
+      "weighted_metrics": {
+        "recency_score": 60,
+        "frequency_score": 20,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 70,
+        "context_score": 85,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 14,
         "messages_this_week": 0,
-        "total_message_count": 1,
-        "total_gift_expenditure": 30000,
-        "missed_calls": 1
+        "total_message_count": 7,
+        "total_gift_expenditure": 50000,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "카센터 사장님",
+      "relationship_category": "생활/단골",
+      "final_intimacy_score": 59.8,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 40,
+        "responsiveness": "MEDIUM",
+        "gift_score": 20,
+        "context_score": 55,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 2,
+        "total_message_count": 2,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "단골 미용실 원장",
+      "relationship_category": "생활/단골",
+      "final_intimacy_score": 59.8,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 40,
+        "responsiveness": "MEDIUM",
+        "gift_score": 20,
+        "context_score": 55,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 2,
+        "total_message_count": 2,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "당구장 주인",
+      "relationship_category": "자기계발/취미",
+      "final_intimacy_score": 59.8,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 40,
+        "responsiveness": "MEDIUM",
+        "gift_score": 20,
+        "context_score": 55,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 2,
+        "total_message_count": 2,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "노래방 사장",
+      "relationship_category": "자기계발/취미",
+      "final_intimacy_score": 59.8,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 40,
+        "responsiveness": "MEDIUM",
+        "gift_score": 20,
+        "context_score": 55,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 2,
+        "total_message_count": 2,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "박지민 (보험설계사)",
+      "relationship_category": "기타/지인",
+      "final_intimacy_score": 58.5,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 40,
+        "responsiveness": "MEDIUM",
+        "gift_score": 20,
+        "context_score": 50,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 2,
+        "total_message_count": 2,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "대리운전(김철수지명)",
+      "relationship_category": "생활/서비스",
+      "final_intimacy_score": 58.5,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 40,
+        "responsiveness": "MEDIUM",
+        "gift_score": 20,
+        "context_score": 50,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 2,
+        "total_message_count": 2,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "인테리어 사장",
+      "relationship_category": "생활/서비스",
+      "final_intimacy_score": 58.5,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 40,
+        "responsiveness": "MEDIUM",
+        "gift_score": 20,
+        "context_score": 50,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 2,
+        "total_message_count": 2,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "보일러 수리",
+      "relationship_category": "생활/서비스",
+      "final_intimacy_score": 58.5,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 40,
+        "responsiveness": "MEDIUM",
+        "gift_score": 20,
+        "context_score": 50,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 2,
+        "total_message_count": 2,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "구두수선",
+      "relationship_category": "생활/서비스",
+      "final_intimacy_score": 58.5,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 40,
+        "responsiveness": "MEDIUM",
+        "gift_score": 20,
+        "context_score": 50,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 2,
+        "total_message_count": 2,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "에어컨 청소",
+      "relationship_category": "생활/서비스",
+      "final_intimacy_score": 58.5,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 40,
+        "responsiveness": "MEDIUM",
+        "gift_score": 20,
+        "context_score": 50,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 2,
+        "total_message_count": 2,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "서점 주인",
+      "relationship_category": "생활/서비스",
+      "final_intimacy_score": 58.5,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 40,
+        "responsiveness": "MEDIUM",
+        "gift_score": 20,
+        "context_score": 50,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 2,
+        "total_message_count": 2,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "편의점 알바",
+      "relationship_category": "생활/서비스",
+      "final_intimacy_score": 58.5,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 40,
+        "responsiveness": "MEDIUM",
+        "gift_score": 20,
+        "context_score": 50,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 2,
+        "total_message_count": 2,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "정수기 코디네이터",
+      "relationship_category": "생활/서비스",
+      "final_intimacy_score": 57.5,
+      "weighted_metrics": {
+        "recency_score": 90,
+        "frequency_score": 40,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 20,
+        "context_score": 50,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 3,
+        "messages_this_week": 2,
+        "total_message_count": 2,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "정육점 김씨",
+      "relationship_category": "생활/단골",
+      "final_intimacy_score": 56.8,
+      "weighted_metrics": {
+        "recency_score": 90,
+        "frequency_score": 40,
+        "responsiveness": "MEDIUM",
+        "gift_score": 20,
+        "context_score": 55,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 3,
+        "messages_this_week": 2,
+        "total_message_count": 2,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "중학교 담임쌤",
+      "relationship_category": "기타",
+      "final_intimacy_score": 49.0,
+      "weighted_metrics": {
+        "recency_score": 40,
+        "frequency_score": 20,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 80,
+        "context_score": 60,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 30,
+        "messages_this_week": 0,
+        "total_message_count": 5,
+        "total_gift_expenditure": 55000,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "큰형님(부산)",
+      "relationship_category": "가족",
+      "final_intimacy_score": 30,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 120,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "처남",
+      "relationship_category": "가족",
+      "final_intimacy_score": 30,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 120,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "이모(분당)",
+      "relationship_category": "가족",
+      "final_intimacy_score": 30,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 120,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "고모부",
+      "relationship_category": "가족",
+      "final_intimacy_score": 30,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 120,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "작은아버지",
+      "relationship_category": "가족",
+      "final_intimacy_score": 30,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 120,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "동서(처제남편)",
+      "relationship_category": "가족",
+      "final_intimacy_score": 30,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 120,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "처제",
+      "relationship_category": "가족",
+      "final_intimacy_score": 30,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 120,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "전무님",
+      "relationship_category": "직장/임원",
+      "final_intimacy_score": 20,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 80,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "최부장 (K물산)",
+      "relationship_category": "기타",
+      "final_intimacy_score": 20,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 80,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "강대표 (H건설)",
+      "relationship_category": "비즈니스/VVIP",
+      "final_intimacy_score": 20,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 80,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "한전무 (S전자)",
+      "relationship_category": "비즈니스/VVIP",
+      "final_intimacy_score": 20,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 80,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "박철민 (고교동창)",
+      "relationship_category": "친구/동창",
+      "final_intimacy_score": 20,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 80,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "이병장 (군대후임)",
+      "relationship_category": "친구/동창",
+      "final_intimacy_score": 20,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 80,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "강준호 (유학파)",
+      "relationship_category": "친구/동창",
+      "final_intimacy_score": 20,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 80,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "안경재 (초딩동창)",
+      "relationship_category": "친구/동창",
+      "final_intimacy_score": 20,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 80,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "과대표 (대학교)",
+      "relationship_category": "친구/동창",
+      "final_intimacy_score": 20,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 80,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "박미란 (동아리)",
+      "relationship_category": "친구/동창",
+      "final_intimacy_score": 20,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 80,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "최인사 (인사팀)",
+      "relationship_category": "직장/동료",
+      "final_intimacy_score": 15,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 60,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "이주임 (영업1팀)",
+      "relationship_category": "직장/팀원",
+      "final_intimacy_score": 15,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 60,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "최사원 (영업1팀)",
+      "relationship_category": "직장/팀원",
+      "final_intimacy_score": 15,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 60,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "조팀장 (마케팅)",
+      "relationship_category": "직장/동료",
+      "final_intimacy_score": 15,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 60,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "서차장 (개발팀)",
+      "relationship_category": "직장/동료",
+      "final_intimacy_score": 15,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 60,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "총무팀 배과장",
+      "relationship_category": "직장/동료",
+      "final_intimacy_score": 15,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 60,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "경비반장님",
+      "relationship_category": "직장/동료",
+      "final_intimacy_score": 15,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 60,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "구내식당 영양사",
+      "relationship_category": "직장/동료",
+      "final_intimacy_score": 15,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 60,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "품질팀 이과장",
+      "relationship_category": "직장/동료",
+      "final_intimacy_score": 15,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 60,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "물류팀 박반장",
+      "relationship_category": "직장/동료",
+      "final_intimacy_score": 15,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 60,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "부산지점장",
+      "relationship_category": "직장/동료",
+      "final_intimacy_score": 15,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 60,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "광주지점 김대리",
+      "relationship_category": "직장/동료",
+      "final_intimacy_score": 15,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 60,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "감사팀 윤부장",
+      "relationship_category": "직장/동료",
+      "final_intimacy_score": 15,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 60,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "노조위원장",
+      "relationship_category": "직장/동료",
+      "final_intimacy_score": 15,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 60,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "시설관리 김주임",
+      "relationship_category": "직장/동료",
+      "final_intimacy_score": 15,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 60,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "이이사 (M테크)",
+      "relationship_category": "비즈니스/거래처",
+      "final_intimacy_score": 15,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 60,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "오팀장 (D화학)",
+      "relationship_category": "비즈니스/거래처",
+      "final_intimacy_score": 15,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 60,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "조대표 (스타트업)",
+      "relationship_category": "비즈니스/거래처",
+      "final_intimacy_score": 15,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 60,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "서대리 (B유통)",
+      "relationship_category": "비즈니스/거래처",
+      "final_intimacy_score": 15,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 60,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "박팀장 (영업2팀)",
+      "relationship_category": "기타",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "김소장 (현장)",
+      "relationship_category": "기타",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "최대표 (인테리어)",
+      "relationship_category": "비즈니스/협력사",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "정실장 (디자인)",
+      "relationship_category": "비즈니스/협력사",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "이팀장 (물류)",
+      "relationship_category": "비즈니스/협력사",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "김변호사 (자문)",
+      "relationship_category": "기타",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "이세무사",
+      "relationship_category": "기타",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "나사장 (철물점)",
+      "relationship_category": "비즈니스/협력사",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "함소장 (건축사)",
+      "relationship_category": "비즈니스/협력사",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "노무사 (자문)",
+      "relationship_category": "기타",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "손해사정사",
+      "relationship_category": "기타",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "랜탈업체 (정수기)",
+      "relationship_category": "비즈니스/협력사",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "화환 업체",
+      "relationship_category": "기타",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "판촉물 사장님",
+      "relationship_category": "비즈니스/협력사",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "여행사 (기업전문)",
+      "relationship_category": "기타",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "베트남 김법인장",
+      "relationship_category": "기타",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "식자재 납품 김씨",
+      "relationship_category": "비즈니스/협력사",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "도소매 협회장",
+      "relationship_category": "비즈니스/협력사",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "관공서 담당관",
+      "relationship_category": "기타",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "구청 위생과",
+      "relationship_category": "기타",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "폐기물 업체",
+      "relationship_category": "비즈니스/협력사",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "보안업체 (세콤)",
+      "relationship_category": "비즈니스/협력사",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "청소 용역 반장",
+      "relationship_category": "비즈니스/협력사",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "서동윤 (사회친구)",
+      "relationship_category": "기타/지인",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "이영희 (학부모)",
+      "relationship_category": "기타/지인",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "최경수 (전 직장)",
+      "relationship_category": "기타/지인",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "정우성 (헬스)",
+      "relationship_category": "자기계발/취미",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "유재석 (MC)",
+      "relationship_category": "기타/지인",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "신동엽 (동물농장)",
+      "relationship_category": "기타/지인",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "고교 수학쌤",
+      "relationship_category": "기타",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "대학교 조교",
+      "relationship_category": "기타/지인",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "스터디모임 장",
+      "relationship_category": "자기계발/취미",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "배드민턴 코치",
+      "relationship_category": "자기계발/취미",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "캠핑 동호회",
+      "relationship_category": "자기계발/취미",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "사진 동호회",
+      "relationship_category": "자기계발/취미",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "영어회화 쌤",
+      "relationship_category": "기타",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "아파트 관리소장",
+      "relationship_category": "기타/지인",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "삼성부동산",
+      "relationship_category": "생활/서비스",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "세탁소 아저씨",
+      "relationship_category": "생활/서비스",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "컴퓨터 수리기사",
+      "relationship_category": "생활/서비스",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "늘푸른 내과 원장",
+      "relationship_category": "생활/서비스",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "인터넷 설치기사",
+      "relationship_category": "생활/서비스",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "치과 (예약)",
+      "relationship_category": "생활/서비스",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "중국집 사장",
+      "relationship_category": "생활/단골",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "핸드폰 매장 (성지)",
+      "relationship_category": "생활/서비스",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "헬스장 관장",
+      "relationship_category": "자기계발/취미",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "아파트 경비실",
+      "relationship_category": "생활/서비스",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "입주자대표",
+      "relationship_category": "생활/서비스",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "윗집 (피아노)",
+      "relationship_category": "기타/지인",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "우체국 집배원",
+      "relationship_category": "생활/서비스",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "야쿠르트 아줌마",
+      "relationship_category": "생활/서비스",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "동네 약국",
+      "relationship_category": "생활/서비스",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "청과물 시장",
+      "relationship_category": "생활/단골",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "열쇠 도장",
+      "relationship_category": "생활/서비스",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "피트니스 상담",
+      "relationship_category": "생활/서비스",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "태권도 관장",
+      "relationship_category": "생활/서비스",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "논술 선생님",
+      "relationship_category": "생활/서비스",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "대리운전 2",
+      "relationship_category": "생활/서비스",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "콜택시",
+      "relationship_category": "생활/서비스",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "이사짐 센터",
+      "relationship_category": "생활/서비스",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "반려동물 미용",
+      "relationship_category": "생활/서비스",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "떡집 사장",
+      "relationship_category": "생활/서비스",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "문구점",
+      "relationship_category": "생활/서비스",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "스팸차단",
+      "relationship_category": "기타",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "(알수없음)",
+      "relationship_category": "기타",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "박대리 (S전자)",
+      "relationship_category": "기타/지인",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "최과장 (L화학)",
+      "relationship_category": "기타/지인",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "정팀장 (H자동차)",
+      "relationship_category": "기타/지인",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "조지점장 (W은행)",
+      "relationship_category": "기타/지인",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "윤PB (증권사)",
+      "relationship_category": "기타/지인",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "임박사 (연구소)",
+      "relationship_category": "기타/지인",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "오작가 (방송국)",
+      "relationship_category": "기타/지인",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "한PD",
+      "relationship_category": "기타/지인",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "배변호사",
+      "relationship_category": "기타/지인",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "동사무소 직원",
+      "relationship_category": "기타",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "민방위 통지",
+      "relationship_category": "기타",
+      "final_intimacy_score": 10,
+      "weighted_metrics": {
+        "recency_score": 0,
+        "frequency_score": 0,
+        "responsiveness": "NONE",
+        "gift_score": 0,
+        "context_score": 40,
+        "interaction_trend": "NO_CONTACT"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 999,
+        "messages_this_week": 0,
+        "total_message_count": 0,
+        "total_gift_expenditure": 0,
+        "missed_calls": 0
       }
     }
   ]

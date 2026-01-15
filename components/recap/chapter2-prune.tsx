@@ -113,7 +113,7 @@ export function Chapter2Prune({ pruneRelationships, onNext }: Chapter2PruneProps
 
         <div className="absolute bottom-0 left-1/2 -translate-x-1/2">
           <Image
-            src="/images/e1-84-90-e1-85-a2-e1-84-8b-e1-85-a3-e1-86-bc-e1-84-8b-e1-85-b5-e1-84-89-e1-85-a1-e1-86-b8-e1-84-86-e1-85-ae-e1-86-af-e1-84-88-e1-85-ae-e1-84-85-e1-85-b5-e1-84-80-e1-85-a2-e1-84-83-e1-85-b3-e1-86-af-e1-84-80-e1-85-a9-e1-84-8b-e1-85-b5-e1-86-bb-e1-84-8b-e1-85-b3-e1-86-b7.png"
+            src="/images/mascot-flower.png"
             alt="정원사 태양이"
             width={160}
             height={160}

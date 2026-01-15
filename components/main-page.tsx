@@ -1,7 +1,6 @@
 "use client"
 
 import { Button } from "@/components/ui/button"
-import { TreeDeciduous } from "lucide-react"
 import Image from "next/image"
 
 interface MainPageProps {
@@ -12,11 +11,6 @@ interface MainPageProps {
 export function MainPage({ onStart, userName = "김광일" }: MainPageProps) {
   return (
     <div className="h-full flex flex-col items-center justify-center px-8 bg-[#F5F7F9]">
-      <div className="flex items-center gap-2 mb-6">
-        <h1 className="text-3xl font-extrabold text-[#2E7D32]">TALK GARDENING</h1>
-        <TreeDeciduous className="w-8 h-8 text-[#2E7D32]" />
-      </div>
-
       <div className="text-left w-full mb-8">
         <p className="text-xl text-[#222222] font-medium">{userName}님,</p>
         <p className="text-xl text-[#222222] font-extrabold">올해의 인연을 만나보세요!</p>

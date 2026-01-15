@@ -1,63 +1,91 @@
-# Talk Gardening - 관계 리포트 프로토타입
+# Talk Gardening - 카카오톡 관계 큐레이션 서비스
 
-카카오톡 대화 데이터를 기반으로 인간관계를 분석하고 시각화하는 프로토타입 앱입니다.
+카카오톡 대화 데이터를 기반으로 인간관계를 분석하고 시각화하는 프로토타입 앱입니다. OpenAI API를 활용하여 친밀도를 분석하고, 관계를 정원에 비유하여 시각적으로 표현합니다.
 
 ## 주요 기능
 
-### 1. 메인 페이지
-- "TALK GARDENING" 브랜딩과 마스코트 캐릭터 표시
-- 시작 버튼을 통해 관계 리포트 시작
+### 1. 스플래시 화면
+- Talk Gardening 로고 표시 (1초 후 자동 전환)
 
-### 2. Recap 슬라이드
-- **슬라이드 1 (씨앗)**: 올해 새로 추가된 인연 표시 - 공채 동기, 동료, 학번 친구 등
-- **슬라이드 2 (뿌리)**: 가장 많이 연락한 TOP 3 순위 표시
-- **슬라이드 3 (대화 키워드)**: 자주 나눈 대화 키워드를 말풍선 형태로 표시
+### 2. 메인 페이지
+- 사용자 인사 메시지와 마스코트 캐릭터 표시
+- "시작하기" 버튼 클릭 시 분석 시작
 
-### 3. AI 관계 분석
-- OpenAI API를 활용하여 관계 데이터 분석
-- `weighted_metrics`와 `raw_stats_summary` 데이터를 기반으로 친밀도 점수 계산
-- 친한 관계 TOP 5와 소홀해진 관계 5명 도출
+### 3. 로딩 화면
+- OpenAI API 호출 중 로딩 애니메이션 표시
+- 돋보기 든 태양이 마스코트와 진행 상태 텍스트
+
+### 4. Recap 슬라이드 (Chapter 1)
+
+| 슬라이드 | 제목 | 설명 |
+|---------|------|------|
+| **슬라이드 1** | 씨앗 (새 인연) | 2025년에 새로 추가된 친구 7명 표시 (friends.json 기반) |
+| **슬라이드 2** | 연락 순위 | frequency_score 기준 상위 5명 (1-3위 카드, 4-5위 리스트) |
+| **슬라이드 3** | 대화 키워드 | OpenAI가 분석한 자주 사용하는 표현 10개 |
+
+### 5. 가지치기 (Chapter 2)
+
+| 화면 | 제목 | 설명 |
+|-----|------|------|
+| **Chapter 2-1** | 소홀해진 관계 | score가 낮은 3명 카드 형태로 표시 |
+| **Chapter 2-2** | 가지치기 | 정리할 관계 5명 표시, 가위 클릭 시 회색 처리 애니메이션 |
+
+### 6. 카테고리 정원 (마지막 화면)
+- **나무 (가족)**: 가족 카테고리
+- **열매 (친구)**: 친구/동창/직장 카테고리  
+- **꽃 (비즈니스 관계)**: 비즈니스/거래처/자기계발/취미 카테고리
+- **뿌리 (지인)**: 생활/서비스/기타 카테고리
+- 공유하기 / 나가기 버튼
 
 ## 기술 스택
 
 - **프레임워크**: Next.js 16 (App Router)
 - **스타일링**: Tailwind CSS v4
+- **폰트**: KakaoBigSans (Regular, Bold, ExtraBold)
 - **AI**: Vercel AI SDK + OpenAI API (gpt-4o-mini)
 - **언어**: TypeScript
 
 ## 프로젝트 구조
 
-\`\`\`
+```
 ├── app/
 │   ├── page.tsx                    # 메인 페이지 (슬라이드 컨트롤러)
-│   ├── layout.tsx                  # 레이아웃 설정
-│   ├── globals.css                 # 전역 스타일
+│   ├── layout.tsx                  # 레이아웃 설정 (KakaoBigSans 폰트)
+│   ├── globals.css                 # 전역 스타일 및 애니메이션
 │   └── api/
 │       └── analyze-relationships/
 │           └── route.ts            # OpenAI API 라우트
 ├── components/
+│   ├── splash-screen.tsx           # 스플래시 화면
 │   ├── main-page.tsx               # 시작 화면 컴포넌트
+│   ├── loading-screen.tsx          # 로딩 화면
 │   └── recap/
-│       ├── slide-1.tsx             # 씨앗 슬라이드
-│       ├── slide-2.tsx             # 뿌리 슬라이드
+│       ├── slide-1.tsx             # 씨앗 슬라이드 (새 인연)
+│       ├── slide-2.tsx             # 연락 순위 슬라이드
 │       ├── slide-3.tsx             # 대화 키워드 슬라이드
-│       └── analysis-result.tsx     # AI 분석 결과 컴포넌트
+│       ├── chapter2-contact.tsx    # 소홀해진 관계 화면
+│       ├── chapter2-prune.tsx      # 가지치기 화면
+│       └── category-garden.tsx     # 카테고리 정원 화면
 ├── data/
-│   └── intimacy_scores.json        # 관계 데이터 (샘플)
+│   ├── me.json                     # 사용자 프로필 정보
+│   ├── friends.json                # 친구 목록 (friendshipDate 포함)
+│   ├── messages.json               # 대화 내용
+│   └── intimacy_scores.json        # 관계 분석 데이터
 └── public/
-    └── images/                     # 마스코트 이미지
-\`\`\`
+    ├── fonts/                      # KakaoBigSans 폰트 파일
+    └── images/                     # 마스코트 및 카테고리 이미지
+```
 
 ## 데이터 구조
 
 ### intimacy_scores.json
 
-\`\`\`json
+```json
 {
   "results": [
     {
       "name": "이름",
-      "category": "가족/친구/직장 등",
+      "relationship_category": "가족/친구/직장 등",
       "weighted_metrics": {
         "recency_score": 100,
         "frequency_score": 60,
@@ -72,30 +100,97 @@
         "total_message_count": 8,
         "total_gift_expenditure": 100000,
         "missed_calls": 0
-      }
+      },
+      "final_intimacy_score": 85.8
     }
   ]
 }
-\`\`\`
+```
+
+### friends.json
+
+```json
+{
+  "friends": [
+    {
+      "id": "friend_001",
+      "name": "이름 (설명)",
+      "profileImage": "이미지URL",
+      "friendshipDate": "2025-01-05"
+    }
+  ]
+}
+```
+
+### me.json
+
+```json
+{
+  "name": "김광일",
+  "profileImage": "이미지URL"
+}
+```
 
 ## 환경 변수
 
-\`\`\`
+```
 OPENAI_API_KEY=your_openai_api_key
-\`\`\`
+```
 
-## 실행 방법
+## 화면 흐름
 
-1. 환경 변수 설정
-2. 앱 실행 후 "시작하기" 버튼 클릭
-3. 화면 탭으로 슬라이드 이동
-4. 마지막 슬라이드 후 AI 분석 결과 확인
+```
+스플래시 (1초)
+    ↓
+메인 페이지 (시작하기 버튼)
+    ↓
+로딩 화면 (API 호출)
+    ↓
+슬라이드 1: 씨앗 (새 인연)
+    ↓
+슬라이드 2: 연락 순위 TOP 5
+    ↓
+슬라이드 3: 대화 키워드
+    ↓
+Chapter 2-1: 소홀해진 관계
+    ↓
+Chapter 2-2: 가지치기
+    ↓
+카테고리 정원 (공유/나가기)
+```
 
 ## 마스코트 캐릭터
 
-- 열쇠 든 태양이: 메인 페이지
-- 물주는 태양이: 새 인연 슬라이드
-- 신난 태양이: 연락 순위 슬라이드
-- 통계분석 태양이: 분석 결과 페이지
-# 32_chunsik_five_siblings-m0
-# 32_chunsik_five_siblings-m0
+| 화면 | 마스코트 |
+|-----|---------|
+| 메인 페이지 | 열쇠 든 태양이 |
+| 로딩 화면 | 돋보기 든 태양이 |
+| 슬라이드 1 | 물주는 태양이 |
+| 슬라이드 2 | 신난 태양이 |
+| 슬라이드 3 | 이너피스 태양이 |
+| Chapter 2-1 | 열쇠 든 태양이 |
+| Chapter 2-2 | 꽃 든 태양이 |
+| 카테고리 정원 | 정원사 태양이 |
+
+## 디자인 시스템
+
+### 색상
+- **배경**: 오프 화이트 (#F5F7F9)
+- **텍스트**: 딥 차콜 (#222222)
+- **강조 (Primary)**: 선플라워 옐로우 (#FFD54F)
+- **보조 (Secondary)**: 가든 그린 (#81C784)
+
+### 애니메이션
+- `float`: 둥둥 떠다니는 효과
+- `bounce-soft`: 부드러운 바운스
+- `fade-in-up`: 아래에서 위로 페이드인
+- `pulse-soft`: 부드러운 펄스
+- `spin-slow`: 느린 회전
+
+## 실행 방법
+
+1. 환경 변수 설정 (OPENAI_API_KEY)
+2. 앱 실행
+3. 스플래시 후 메인 화면에서 "시작하기" 클릭
+4. 화면 탭으로 슬라이드 이동
+5. 마지막 화면에서 공유 또는 나가기

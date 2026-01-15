@@ -217,10 +217,64 @@ function getTopContactsByFrequency() {
     })
 }
 
+function getCategorizedRelationships() {
+  const results = intimacyData.results as Array<{
+    target_person: string
+    relationship_category: string
+    final_intimacy_score: number
+  }>
+
+  const categories: {
+    가족: Array<{ name: string; category: string; profileImg: string; score: number }>
+    "친구/동창": Array<{ name: string; category: string; profileImg: string; score: number }>
+    기타: Array<{ name: string; category: string; profileImg: string; score: number }>
+    지인: Array<{ name: string; category: string; profileImg: string; score: number }>
+  } = {
+    가족: [],
+    "친구/동창": [],
+    기타: [],
+    지인: [],
+  }
+
+  for (const r of results) {
+    const friend = friendsData.friends.find((f) => f.name === r.target_person)
+    const person = {
+      name: r.target_person,
+      category: r.relationship_category,
+      profileImg: friend?.profileImg || `https://i.pravatar.cc/150?u=${r.target_person}`,
+      score: r.final_intimacy_score,
+    }
+
+    if (r.relationship_category === "가족") {
+      categories["가족"].push(person)
+    } else if (r.relationship_category.includes("친구") || r.relationship_category.includes("동창")) {
+      categories["친구/동창"].push(person)
+    } else if (
+      r.relationship_category.includes("생활") ||
+      r.relationship_category.includes("서비스") ||
+      r.relationship_category.includes("기타") ||
+      r.relationship_category.includes("지인")
+    ) {
+      categories["지인"].push(person)
+    } else {
+      categories["기타"].push(person)
+    }
+  }
+
+  // 각 카테고리 내에서 점수 순으로 정렬
+  categories["가족"].sort((a, b) => b.score - a.score)
+  categories["친구/동창"].sort((a, b) => b.score - a.score)
+  categories["기타"].sort((a, b) => b.score - a.score)
+  categories["지인"].sort((a, b) => b.score - a.score)
+
+  return categories
+}
+
 export async function POST() {
   const analysisResults = analyzeMessages()
   const newConnectionsIn2025 = getNewConnectionsIn2025()
   const topContactsByFrequency = getTopContactsByFrequency()
+  const categorizedRelationships = getCategorizedRelationships()
 
   // 정렬
   const sorted = [...analysisResults].sort((a, b) => b.intimacyScore - a.intimacyScore)
@@ -348,6 +402,7 @@ ${JSON.stringify(simplifiedData, null, 2)}
         new_connections: newConnectionsIn2025,
         top_contacts_by_frequency: topContactsByFrequency,
         frequent_keywords: frequentKeywords,
+        categorized_relationships: categorizedRelationships,
         source: "openai",
       })
     }
@@ -384,6 +439,7 @@ ${JSON.stringify(simplifiedData, null, 2)}
         { text: "알겠습니다", type: "sent" },
         { text: "네 상무님", type: "sent" },
       ],
+      categorized_relationships: categorizedRelationships,
       source: "fallback",
     })
   }

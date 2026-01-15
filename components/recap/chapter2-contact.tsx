@@ -71,10 +71,10 @@ export function Chapter2Contact({ neglectedRelationships, onNext }: Chapter2Cont
 
       <div className="flex justify-center mt-auto mb-4">
         <Image
-          src="/images/e1-84-90-e1-85-a2-e1-84-8b-e1-85-a3-e1-86-bc-e1-84-8b-e1-85-b5-e1-84-8b-e1-85-a3-e1-86-a8-e1-84-80-e1-85-a1-e1-86-ab-e1-84-80-e1-85-a9-e1-84-83-e1-85-ac-e1-86-b7.png"
-          alt="약간 지친 태양이"
-          width={160}
-          height={160}
+          src="/images/mascot-key.png"
+          alt="열쇠 든 태양이"
+          width={140}
+          height={140}
           className="object-contain drop-shadow-lg animate-bounce-soft"
         />
       </div>

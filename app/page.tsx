@@ -1,12 +1,14 @@
 "use client"
 
 import { useState } from "react"
+import { SplashScreen } from "@/components/splash-screen"
 import { MainPage } from "@/components/main-page"
 import { RecapSlide1 } from "@/components/recap/slide-1"
 import { RecapSlide2 } from "@/components/recap/slide-2"
 import { RecapSlide3 } from "@/components/recap/slide-3"
 import { Chapter2Contact } from "@/components/recap/chapter2-contact"
 import { Chapter2Prune } from "@/components/recap/chapter2-prune"
+import { CategoryGarden } from "@/components/recap/category-garden"
 import { LoadingScreen } from "@/components/loading-screen"
 import meData from "@/data/me.json"
 
@@ -26,12 +28,24 @@ interface Keyword {
   type: "sent" | "received"
 }
 
+interface CategoryPerson {
+  name: string
+  category: string
+  profileImg?: string
+  score?: number
+}
+
 interface AnalysisData {
   close_relationships: Person[]
   neglected_relationships: Person[]
   new_connections: Person[]
   top_contacts_by_frequency: Person[]
   frequent_keywords: Keyword[]
+  categorized_relationships?: {
+    가족: CategoryPerson[]
+    "친구/동창": CategoryPerson[]
+    기타: CategoryPerson[]
+  }
 }
 
 export default function Home() {
@@ -44,13 +58,17 @@ export default function Home() {
   const handleGoHome = () => {
     setAnalysisData(null)
     setIsApiLoaded(false)
-    setCurrentSlide(0)
+    setCurrentSlide(1)
+  }
+
+  const handleSplashComplete = () => {
+    setCurrentSlide(1)
   }
 
   const handleStart = async () => {
     setAnalysisData(null)
     setIsApiLoaded(false)
-    setCurrentSlide(1)
+    setCurrentSlide(2)
 
     try {
       const response = await fetch("/api/analyze-relationships", {
@@ -70,30 +88,31 @@ export default function Home() {
   }
 
   const handleLoadingComplete = () => {
-    setCurrentSlide(2)
+    setCurrentSlide(3)
   }
 
   const slides = [
+    <SplashScreen key="splash" onComplete={handleSplashComplete} />,
     <MainPage key="main" onStart={handleStart} userName={userName} />,
     <LoadingScreen key="loading" isLoaded={isApiLoaded} onComplete={handleLoadingComplete} />,
     <RecapSlide1
       key="recap1"
-      onNext={() => setCurrentSlide(3)}
+      onNext={() => setCurrentSlide(4)}
       newConnections={analysisData?.new_connections}
       userName={userName}
     />,
     <RecapSlide2
       key="recap2"
-      onNext={() => setCurrentSlide(4)}
+      onNext={() => setCurrentSlide(5)}
       topContacts={analysisData?.top_contacts_by_frequency}
       userName={userName}
     />,
-    <RecapSlide3 key="recap3" onNext={() => setCurrentSlide(5)} keywords={analysisData?.frequent_keywords} />,
+    <RecapSlide3 key="recap3" onNext={() => setCurrentSlide(6)} keywords={analysisData?.frequent_keywords} />,
     analysisData ? (
       <Chapter2Contact
         key="chapter2-contact"
         neglectedRelationships={analysisData.neglected_relationships}
-        onNext={() => setCurrentSlide(6)}
+        onNext={() => setCurrentSlide(7)}
       />
     ) : (
       <LoadingScreen key="loading-chapter2" />
@@ -102,10 +121,15 @@ export default function Home() {
       <Chapter2Prune
         key="chapter2-prune"
         pruneRelationships={analysisData.neglected_relationships}
-        onNext={handleGoHome}
+        onNext={() => setCurrentSlide(8)}
       />
     ) : (
       <LoadingScreen key="loading-prune" />
+    ),
+    analysisData?.categorized_relationships ? (
+      <CategoryGarden key="category-garden" categories={analysisData.categorized_relationships} onNext={handleGoHome} />
+    ) : (
+      <LoadingScreen key="loading-category" />
     ),
   ]
 
