@@ -1,0 +1,684 @@
+{
+  "friends": [
+    {
+      "id": 101,
+      "name": "이지혜(아내)",
+      "profileImg": "https://i.pravatar.cc/150?u=101",
+      "statusMsg": "항상 감사하며 살기",
+      "category": "가족",
+      "friendshipDate": "2011-03-12"
+    },
+    {
+      "id": 102,
+      "name": "김민준(아들)",
+      "profileImg": "https://i.pravatar.cc/150?u=102",
+      "statusMsg": "시험 기간 열공 중..",
+      "category": "가족",
+      "friendshipDate": "2019-05-05"
+    },
+    {
+      "id": 103,
+      "name": "어머니",
+      "profileImg": "https://i.pravatar.cc/150?u=103",
+      "statusMsg": "우리 아들 건강 챙겨라",
+      "category": "가족",
+      "friendshipDate": "2012-09-20"
+    },
+    {
+      "id": 104,
+      "name": "장모님",
+      "profileImg": "https://i.pravatar.cc/150?u=104",
+      "statusMsg": "꽃길만 걷자",
+      "category": "가족",
+      "friendshipDate": "2013-01-15"
+    },
+    {
+      "id": 105,
+      "name": "김영희(여동생)",
+      "profileImg": "https://i.pravatar.cc/150?u=105",
+      "statusMsg": "육아 전쟁 중 ㅠㅠ",
+      "category": "가족",
+      "friendshipDate": "2011-04-01"
+    },
+    {
+      "id": 106,
+      "name": "박서방(매제)",
+      "profileImg": "https://i.pravatar.cc/150?u=106",
+      "statusMsg": "형님 주말에 뵙겠습니다",
+      "category": "가족",
+      "friendshipDate": "2015-10-10"
+    },
+    {
+      "id": 110,
+      "name": "조카 지민이",
+      "profileImg": "https://i.pravatar.cc/150?u=110",
+      "statusMsg": "삼촌 용돈 주세요♥",
+      "category": "가족",
+      "friendshipDate": "2023-05-05"
+    },
+    {
+      "id": 112,
+      "name": "사촌동생(민수)",
+      "profileImg": "https://i.pravatar.cc/150?u=112",
+      "statusMsg": "취업 준비 중",
+      "category": "가족",
+      "friendshipDate": "2020-01-01"
+    },
+    {
+      "id": 201,
+      "name": "박상무 (A건설)",
+      "profileImg": "https://i.pravatar.cc/150?u=201",
+      "statusMsg": "라운딩 문의는 실장님께",
+      "category": "VVIP",
+      "friendshipDate": "2018-04-12"
+    },
+    {
+      "id": 203,
+      "name": "정대리 (직속후배)",
+      "profileImg": "https://i.pravatar.cc/150?u=203",
+      "statusMsg": "열심히 하겠습니다!",
+      "category": "팀원",
+      "friendshipDate": "2021-03-02"
+    },
+    {
+      "id": 204,
+      "name": "한과장 (직속후배)",
+      "profileImg": "https://i.pravatar.cc/150?u=204",
+      "statusMsg": "맛점하세요",
+      "category": "팀원",
+      "friendshipDate": "2019-01-15"
+    },
+    {
+      "id": 205,
+      "name": "송유나 (B유통 담당)",
+      "profileImg": "https://i.pravatar.cc/150?u=205",
+      "statusMsg": "발주 문의 환영",
+      "category": "거래처",
+      "friendshipDate": "2023-04-15"
+    },
+    {
+      "id": 206,
+      "name": "강대표 (H건설)",
+      "profileImg": "https://i.pravatar.cc/150?u=206",
+      "statusMsg": "초심을 잃지 말자",
+      "category": "VVIP",
+      "friendshipDate": "2016-05-20"
+    },
+    {
+      "id": 208,
+      "name": "박신입 (인턴)",
+      "profileImg": "https://i.pravatar.cc/150?u=208",
+      "statusMsg": "배우는 자세로!",
+      "category": "팀원",
+      "friendshipDate": "2025-12-26"
+    },
+    {
+      "id": 209,
+      "name": "김경리 (재무팀)",
+      "profileImg": "https://i.pravatar.cc/150?u=209",
+      "statusMsg": "영수증 처리 마감일 준수",
+      "category": "사내동료",
+      "friendshipDate": "2020-06-10"
+    },
+    {
+      "id": 218,
+      "name": "IT지원팀 강대리",
+      "profileImg": "https://i.pravatar.cc/150?u=218",
+      "statusMsg": "PC 고장 접수는 사내망으로",
+      "category": "사내동료",
+      "friendshipDate": "2023-04-05"
+    },
+    {
+      "id": 222,
+      "name": "김공장장 (평택)",
+      "profileImg": "https://i.pravatar.cc/150?u=222",
+      "statusMsg": "생산 라인 풀가동",
+      "category": "사내동료",
+      "friendshipDate": "2015-06-15"
+    },
+    {
+      "id": 227,
+      "name": "비서실 최비서",
+      "profileImg": "https://i.pravatar.cc/150?u=227",
+      "statusMsg": "대표님 일정 확인",
+      "category": "사내동료",
+      "friendshipDate": "2023-06-01"
+    },
+    {
+      "id": 232,
+      "name": "박차장 (구매팀)",
+      "profileImg": "https://i.pravatar.cc/150?u=232",
+      "statusMsg": "단가 협의 요망",
+      "category": "거래처",
+      "friendshipDate": "2021-08-08"
+    },
+    {
+      "id": 237,
+      "name": "박사장 (인쇄소)",
+      "profileImg": "https://i.pravatar.cc/150?u=237",
+      "statusMsg": "명함/브로셔 전문",
+      "category": "협력사",
+      "friendshipDate": "2017-04-04"
+    },
+    {
+      "id": 240,
+      "name": "퀵서비스 (김기사)",
+      "profileImg": "https://i.pravatar.cc/150?u=240",
+      "statusMsg": "신속 배달",
+      "category": "서비스",
+      "friendshipDate": "2025-01-05"
+    },
+    {
+      "id": 242,
+      "name": "윤과장 (경쟁사)",
+      "profileImg": "https://i.pravatar.cc/150?u=242",
+      "statusMsg": "정보 공유 합시다 ^^",
+      "category": "경쟁사",
+      "friendshipDate": "2022-12-12"
+    },
+    {
+      "id": 253,
+      "name": "조대표 (스타트업)",
+      "profileImg": "https://i.pravatar.cc/150?u=253",
+      "statusMsg": "투자 미팅 중",
+      "category": "거래처",
+      "friendshipDate": "2025-10-15"
+    },
+    {
+      "id": 254,
+      "name": "서대리 (B유통)",
+      "profileImg": "https://i.pravatar.cc/150?u=254",
+      "statusMsg": "송유나 담당 휴가시 연락",
+      "category": "거래처",
+      "friendshipDate": "2025-11-20"
+    },
+    {
+      "id": 256,
+      "name": "노무사 (자문)",
+      "profileImg": "https://i.pravatar.cc/150?u=256",
+      "statusMsg": "노동법 문의",
+      "category": "전문가",
+      "friendshipDate": "2025-01-10"
+    },
+    {
+      "id": 262,
+      "name": "중국 공장 왕사장",
+      "profileImg": "https://i.pravatar.cc/150?u=262",
+      "statusMsg": "WeChat 가능",
+      "category": "해외",
+      "friendshipDate": "2018-05-01"
+    },
+    {
+      "id": 267,
+      "name": "구청 위생과",
+      "profileImg": "https://i.pravatar.cc/150?u=267",
+      "statusMsg": "점검 기간",
+      "category": "공무원",
+      "friendshipDate": "2025-06-20"
+    },
+    {
+      "id": 301,
+      "name": "이진호 (고교동창)",
+      "profileImg": "https://i.pravatar.cc/150?u=301",
+      "statusMsg": "이번주 소주 한잔?",
+      "category": "친구",
+      "friendshipDate": "2011-01-05"
+    },
+    {
+      "id": 302,
+      "name": "박철호 (골프모임)",
+      "profileImg": "https://i.pravatar.cc/150?u=302",
+      "statusMsg": "싱글 가즈아",
+      "category": "취미",
+      "friendshipDate": "2017-05-20"
+    },
+    {
+      "id": 303,
+      "name": "최미나 (대학동기)",
+      "profileImg": "https://i.pravatar.cc/150?u=303",
+      "statusMsg": "동기모임 일정 공지",
+      "category": "친구",
+      "friendshipDate": "2012-05-20"
+    },
+    {
+      "id": 304,
+      "name": "김사장 (동네단골)",
+      "profileImg": "https://i.pravatar.cc/150?u=304",
+      "statusMsg": "오늘 물 좋습니다",
+      "category": "지인",
+      "friendshipDate": "2018-07-15"
+    },
+    {
+      "id": 306,
+      "name": "등산모임 총무",
+      "profileImg": "https://i.pravatar.cc/150?u=306",
+      "statusMsg": "이번주 관악산 집결",
+      "category": "취미",
+      "friendshipDate": "2016-10-03"
+    },
+    {
+      "id": 307,
+      "name": "박지민 (보험설계사)",
+      "profileImg": "https://i.pravatar.cc/150?u=307",
+      "statusMsg": "실손보험 문의주세요",
+      "category": "지인",
+      "friendshipDate": "2019-03-20"
+    },
+    {
+      "id": 308,
+      "name": "카센터 사장님",
+      "profileImg": "https://i.pravatar.cc/150?u=308",
+      "statusMsg": "엔진오일 행사 중",
+      "category": "단골",
+      "friendshipDate": "2017-08-10"
+    },
+    {
+      "id": 311,
+      "name": "김영수 (대학선배)",
+      "profileImg": "https://i.pravatar.cc/150?u=311",
+      "statusMsg": "보험은 미래다",
+      "category": "친구",
+      "friendshipDate": "2013-03-01"
+    },
+    {
+      "id": 312,
+      "name": "장동건 (군대선임)",
+      "profileImg": "https://i.pravatar.cc/150?u=312",
+      "statusMsg": "필승! 전우회 모이자",
+      "category": "친구",
+      "friendshipDate": "2015-10-01"
+    },
+    {
+      "id": 314,
+      "name": "송지현 (첫사랑)",
+      "profileImg": "https://i.pravatar.cc/150?u=314",
+      "statusMsg": "행복하세요",
+      "category": "지인",
+      "friendshipDate": "2020-05-05"
+    },
+    {
+      "id": 316,
+      "name": "황진상 (돈빌림)",
+      "profileImg": "https://i.pravatar.cc/150?u=316",
+      "statusMsg": "인생 한방이다",
+      "category": "주의",
+      "friendshipDate": "2014-04-01"
+    },
+    {
+      "id": 317,
+      "name": "안경재 (초딩동창)",
+      "profileImg": "https://i.pravatar.cc/150?u=317",
+      "statusMsg": "반창회 3월 예정",
+      "category": "친구",
+      "friendshipDate": "2025-02-10"
+    },
+    {
+      "id": 331,
+      "name": "김프로 (레슨)",
+      "profileImg": "https://i.pravatar.cc/150?u=331",
+      "statusMsg": "스윙 교정 문의",
+      "category": "취미",
+      "friendshipDate": "2025-03-10"
+    },
+    {
+      "id": 332,
+      "name": "조기축구 회장",
+      "profileImg": "https://i.pravatar.cc/150?u=332",
+      "statusMsg": "일요일 6시 운동장",
+      "category": "취미",
+      "friendshipDate": "2014-06-01"
+    },
+    {
+      "id": 333,
+      "name": "낚시광 이씨",
+      "profileImg": "https://i.pravatar.cc/150?u=333",
+      "statusMsg": "감성돔 시즌 ON",
+      "category": "취미",
+      "friendshipDate": "2018-09-15"
+    },
+    {
+      "id": 334,
+      "name": "헬스장 트레이너",
+      "profileImg": "https://i.pravatar.cc/150?u=334",
+      "statusMsg": "회원님 오늘 하체입니다",
+      "category": "취미",
+      "friendshipDate": "2024-05-01"
+    },
+    {
+      "id": 335,
+      "name": "스크린골프 사장",
+      "profileImg": "https://i.pravatar.cc/150?u=335",
+      "statusMsg": "새로운 코스 업데이트",
+      "category": "취미",
+      "friendshipDate": "2020-11-11"
+    },
+    {
+      "id": 340,
+      "name": "김철민 (동호회)",
+      "profileImg": "https://i.pravatar.cc/150?u=340",
+      "statusMsg": "자전거 라이딩",
+      "category": "취미",
+      "friendshipDate": "2021-04-20"
+    },
+    {
+      "id": 345,
+      "name": "강호동 (씨름부)",
+      "profileImg": "https://i.pravatar.cc/150?u=345",
+      "statusMsg": "천하장사",
+      "category": "친구",
+      "friendshipDate": "2011-06-01"
+    },
+    {
+      "id": 347,
+      "name": "조세호 (참석왕)",
+      "profileImg": "https://i.pravatar.cc/150?u=347",
+      "statusMsg": "모르는데 어떻게 가요",
+      "category": "지인",
+      "friendshipDate": "2018-02-02"
+    },
+    {
+      "id": 348,
+      "name": "서장훈 (건물주)",
+      "profileImg": "https://i.pravatar.cc/150?u=348",
+      "statusMsg": "임대 문의",
+      "category": "지인",
+      "friendshipDate": "2019-07-20"
+    },
+    {
+      "id": 349,
+      "name": "김희철 (게임)",
+      "profileImg": "https://i.pravatar.cc/150?u=349",
+      "statusMsg": "롤 하실 분",
+      "category": "취미",
+      "friendshipDate": "2023-09-09"
+    },
+    {
+      "id": 351,
+      "name": "중학교 담임쌤",
+      "profileImg": "https://i.pravatar.cc/150?u=351",
+      "statusMsg": "정년퇴임",
+      "category": "은사",
+      "friendshipDate": "2020-05-15"
+    },
+    {
+      "id": 354,
+      "name": "ROTC 동기회장",
+      "profileImg": "https://i.pravatar.cc/150?u=354",
+      "statusMsg": "임관 20주년 준비",
+      "category": "친구",
+      "friendshipDate": "2011-03-01"
+    },
+    {
+      "id": 357,
+      "name": "낚시용품 사장",
+      "profileImg": "https://i.pravatar.cc/150?u=357",
+      "statusMsg": "신형 릴 입고",
+      "category": "취미",
+      "friendshipDate": "2019-10-10"
+    },
+    {
+      "id": 360,
+      "name": "영어회화 쌤",
+      "profileImg": "https://i.pravatar.cc/150?u=360",
+      "statusMsg": "Just do it",
+      "category": "자기계발",
+      "friendshipDate": "2025-01-02"
+    },
+    {
+      "id": 402,
+      "name": "대리운전(김철수지명)",
+      "profileImg": "https://i.pravatar.cc/150?u=402",
+      "statusMsg": "안전귀가 책임집니다",
+      "category": "생활",
+      "friendshipDate": "2019-11-15"
+    },
+    {
+      "id": 405,
+      "name": "정수기 코디네이터",
+      "profileImg": "https://i.pravatar.cc/150?u=405",
+      "statusMsg": "필터 교체일: 20일",
+      "category": "생활",
+      "friendshipDate": "2021-03-10"
+    },
+    {
+      "id": 406,
+      "name": "단골 미용실 원장",
+      "profileImg": "https://i.pravatar.cc/150?u=406",
+      "statusMsg": "매주 화요일 휴무",
+      "category": "단골",
+      "friendshipDate": "2018-06-20"
+    },
+    {
+      "id": 407,
+      "name": "현대차 딜러",
+      "profileImg": "https://i.pravatar.cc/150?u=407",
+      "statusMsg": "제네시스 신형 상담",
+      "category": "생활",
+      "friendshipDate": "2020-09-01"
+    },
+    {
+      "id": 409,
+      "name": "택배기사 (CJ)",
+      "profileImg": "https://i.pravatar.cc/150?u=409",
+      "statusMsg": "문앞에 둡니다",
+      "category": "생활",
+      "friendshipDate": "2022-01-05"
+    },
+    {
+      "id": 412,
+      "name": "반찬가게 이모",
+      "profileImg": "https://i.pravatar.cc/150?u=412",
+      "statusMsg": "오늘 잡채 했어요",
+      "category": "단골",
+      "friendshipDate": "2017-05-05"
+    },
+    {
+      "id": 413,
+      "name": "학원 원장님 (수학)",
+      "profileImg": "https://i.pravatar.cc/150?u=413",
+      "statusMsg": "민준이 성적 상담 요망",
+      "category": "생활",
+      "friendshipDate": "2019-03-02"
+    },
+    {
+      "id": 419,
+      "name": "층간소음(아랫집)",
+      "profileImg": "https://i.pravatar.cc/150?u=419",
+      "statusMsg": "밤늦게 조용히 좀",
+      "category": "주의",
+      "friendshipDate": "2020-08-15"
+    },
+    {
+      "id": 425,
+      "name": "정육점 김씨",
+      "profileImg": "https://i.pravatar.cc/150?u=425",
+      "statusMsg": "투뿔 한우",
+      "category": "단골",
+      "friendshipDate": "2016-12-01"
+    },
+    {
+      "id": 426,
+      "name": "인테리어 사장",
+      "profileImg": "https://i.pravatar.cc/150?u=426",
+      "statusMsg": "견적 무료",
+      "category": "생활",
+      "friendshipDate": "2023-10-10"
+    },
+    {
+      "id": 427,
+      "name": "보일러 수리",
+      "profileImg": "https://i.pravatar.cc/150?u=427",
+      "statusMsg": "AS 전화주세요",
+      "category": "생활",
+      "friendshipDate": "2018-01-20"
+    },
+    {
+      "id": 431,
+      "name": "영어학원 (민준)",
+      "profileImg": "https://i.pravatar.cc/150?u=431",
+      "statusMsg": "원어민 회화 특강",
+      "category": "생활",
+      "friendshipDate": "2021-09-01"
+    },
+    {
+      "id": 433,
+      "name": "피아노 선생님",
+      "profileImg": "https://i.pravatar.cc/150?u=433",
+      "statusMsg": "체르니 30번 진입",
+      "category": "생활",
+      "friendshipDate": "2020-03-15"
+    },
+    {
+      "id": 438,
+      "name": "에어컨 청소",
+      "profileImg": "https://i.pravatar.cc/150?u=438",
+      "statusMsg": "여름 전 예약 필수",
+      "category": "생활",
+      "friendshipDate": "2022-05-20"
+    },
+    {
+      "id": 439,
+      "name": "가사 도우미",
+      "profileImg": "https://i.pravatar.cc/150?u=439",
+      "statusMsg": "목요일 방문",
+      "category": "생활",
+      "friendshipDate": "2019-04-10"
+    },
+    {
+      "id": 441,
+      "name": "동물병원 원장",
+      "profileImg": "https://i.pravatar.cc/150?u=441",
+      "statusMsg": "예방접종 안내",
+      "category": "생활",
+      "friendshipDate": "2017-07-07"
+    },
+    {
+      "id": 442,
+      "name": "꽃집 아가씨",
+      "profileImg": "https://i.pravatar.cc/150?u=442",
+      "statusMsg": "꽃말을 담아",
+      "category": "생활",
+      "friendshipDate": "2021-05-05"
+    },
+    {
+      "id": 445,
+      "name": "안경점",
+      "profileImg": "https://i.pravatar.cc/150?u=445",
+      "statusMsg": "정기 검안 필요",
+      "category": "생활",
+      "friendshipDate": "2016-08-15"
+    },
+    {
+      "id": 446,
+      "name": "서점 주인",
+      "profileImg": "https://i.pravatar.cc/150?u=446",
+      "statusMsg": "베스트셀러 입고",
+      "category": "생활",
+      "friendshipDate": "2015-11-20"
+    },
+    {
+      "id": 447,
+      "name": "편의점 알바",
+      "profileImg": "https://i.pravatar.cc/150?u=447",
+      "statusMsg": "새 맥주 들어옴",
+      "category": "생활",
+      "friendshipDate": "2024-02-10"
+    },
+    {
+      "id": 448,
+      "name": "PC방 사장",
+      "profileImg": "https://i.pravatar.cc/150?u=448",
+      "statusMsg": "RTX 4090 업그레이드",
+      "category": "생활",
+      "friendshipDate": "2018-10-10"
+    },
+    {
+      "id": 449,
+      "name": "당구장 주인",
+      "profileImg": "https://i.pravatar.cc/150?u=449",
+      "statusMsg": "4구 다이 신품",
+      "category": "생활",
+      "friendshipDate": "2017-09-09"
+    },
+    {
+      "id": 450,
+      "name": "노래방 사장",
+      "profileImg": "https://i.pravatar.cc/150?u=450",
+      "statusMsg": "신곡 업데이트",
+      "category": "생활",
+      "friendshipDate": "2019-12-25"
+    },
+    {
+      "id": 601,
+      "name": "김영호 (전 직장)",
+      "profileImg": "https://i.pravatar.cc/150?u=601",
+      "statusMsg": "이직 후 바빠요",
+      "category": "지인",
+      "friendshipDate": "2014-07-01"
+    },
+    {
+      "id": 605,
+      "name": "강부장 (K은행)",
+      "profileImg": "https://i.pravatar.cc/150?u=605",
+      "statusMsg": "금리 상담",
+      "category": "지인",
+      "friendshipDate": "2016-04-15"
+    },
+    {
+      "id": 608,
+      "name": "장교수 (대학원)",
+      "profileImg": "https://i.pravatar.cc/150?u=608",
+      "statusMsg": "제자들 잘 지내나",
+      "category": "은사",
+      "friendshipDate": "2013-09-01"
+    },
+    {
+      "id": 612,
+      "name": "서기자",
+      "profileImg": "https://i.pravatar.cc/150?u=612",
+      "statusMsg": "취재 요청",
+      "category": "지인",
+      "friendshipDate": "2020-11-01"
+    },
+    {
+      "id": 614,
+      "name": "권검사 (동창)",
+      "profileImg": "https://i.pravatar.cc/150?u=614",
+      "statusMsg": "법대 동창",
+      "category": "친구",
+      "friendshipDate": "2012-03-10"
+    },
+    {
+      "id": 615,
+      "name": "신판사 (동창)",
+      "profileImg": "https://i.pravatar.cc/150?u=615",
+      "statusMsg": "지방 근무 중",
+      "category": "친구",
+      "friendshipDate": "2012-03-10"
+    },
+    {
+      "id": 616,
+      "name": "구의원",
+      "profileImg": "https://i.pravatar.cc/150?u=616",
+      "statusMsg": "지역 발전",
+      "category": "지인",
+      "friendshipDate": "2022-06-01"
+    },
+    {
+      "id": 618,
+      "name": "예비군 중대장",
+      "profileImg": "https://i.pravatar.cc/150?u=618",
+      "statusMsg": "훈련 일정 확인",
+      "category": "기타",
+      "friendshipDate": "2021-04-01"
+    },
+    {
+      "id": 620,
+      "name": "헌혈의 집",
+      "profileImg": "https://i.pravatar.cc/150?u=620",
+      "statusMsg": "헌혈 참여 감사",
+      "category": "기타",
+      "friendshipDate": "2023-08-15"
+    }
+  ]
+}

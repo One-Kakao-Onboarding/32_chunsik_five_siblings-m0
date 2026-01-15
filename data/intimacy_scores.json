@@ -1,0 +1,306 @@
+{
+  "generated_at": "2026-01-15T12:30:41.458282",
+  "total_contacts": 193,
+  "results": [
+    {
+      "target_person": "이지혜(아내)",
+      "relationship_category": "가족",
+      "final_intimacy_score": 85.8,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 60,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 80,
+        "context_score": 95,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 8,
+        "total_message_count": 8,
+        "total_gift_expenditure": 100000,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "장모님",
+      "relationship_category": "가족",
+      "final_intimacy_score": 83.8,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 60,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 100,
+        "context_score": 75,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 1,
+        "messages_this_week": 6,
+        "total_message_count": 6,
+        "total_gift_expenditure": 250000,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "강호동 (씨름부)",
+      "relationship_category": "친구/동창",
+      "final_intimacy_score": 82.2,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 60,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 90,
+        "context_score": 75,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 1,
+        "messages_this_week": 7,
+        "total_message_count": 7,
+        "total_gift_expenditure": 350000,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "김민준(아들)",
+      "relationship_category": "가족",
+      "final_intimacy_score": 81.8,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 60,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 70,
+        "context_score": 85,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 6,
+        "total_message_count": 6,
+        "total_gift_expenditure": 24000,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "어머니",
+      "relationship_category": "가족",
+      "final_intimacy_score": 81.8,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 60,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 70,
+        "context_score": 85,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 6,
+        "total_message_count": 6,
+        "total_gift_expenditure": 55000,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "권검사 (동창)",
+      "relationship_category": "친구/동창",
+      "final_intimacy_score": 81.8,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 60,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 70,
+        "context_score": 85,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 5,
+        "total_message_count": 5,
+        "total_gift_expenditure": 20000,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "김영희(여동생)",
+      "relationship_category": "가족",
+      "final_intimacy_score": 80.2,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 60,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 60,
+        "context_score": 85,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 6,
+        "total_message_count": 6,
+        "total_gift_expenditure": 15000,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "조카 지민이",
+      "relationship_category": "가족",
+      "final_intimacy_score": 80.0,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 60,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 50,
+        "context_score": 90,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 0,
+        "messages_this_week": 7,
+        "total_message_count": 7,
+        "total_gift_expenditure": 5000,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "최미나 (대학동기)",
+      "relationship_category": "친구/동창",
+      "final_intimacy_score": 78.5,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 60,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 40,
+        "context_score": 90,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 1,
+        "messages_this_week": 8,
+        "total_message_count": 8,
+        "total_gift_expenditure": 5000,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "사촌동생(민수)",
+      "relationship_category": "가족",
+      "final_intimacy_score": 78.0,
+      "weighted_metrics": {
+        "recency_score": 100,
+        "frequency_score": 60,
+        "responsiveness": "VERY_HIGH",
+        "gift_score": 70,
+        "context_score": 70,
+        "interaction_trend": "STABLE"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 1,
+        "messages_this_week": 6,
+        "total_message_count": 6,
+        "total_gift_expenditure": 32000,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "중학교 담임쌤",
+      "relationship_category": "기타",
+      "final_intimacy_score": 25.0,
+      "weighted_metrics": {
+        "recency_score": 10,
+        "frequency_score": 10,
+        "responsiveness": "LOW",
+        "gift_score": 0,
+        "context_score": 30,
+        "interaction_trend": "DECLINING"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 365,
+        "messages_this_week": 0,
+        "total_message_count": 1,
+        "total_gift_expenditure": 0,
+        "missed_calls": 2
+      }
+    },
+    {
+      "target_person": "서장훈 (건물주)",
+      "relationship_category": "기타/지인",
+      "final_intimacy_score": 28.5,
+      "weighted_metrics": {
+        "recency_score": 15,
+        "frequency_score": 15,
+        "responsiveness": "LOW",
+        "gift_score": 10,
+        "context_score": 25,
+        "interaction_trend": "DECLINING"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 180,
+        "messages_this_week": 0,
+        "total_message_count": 2,
+        "total_gift_expenditure": 50000,
+        "missed_calls": 1
+      }
+    },
+    {
+      "target_person": "황진상 (돈빌림)",
+      "relationship_category": "기타",
+      "final_intimacy_score": 22.0,
+      "weighted_metrics": {
+        "recency_score": 5,
+        "frequency_score": 5,
+        "responsiveness": "VERY_LOW",
+        "gift_score": 0,
+        "context_score": 20,
+        "interaction_trend": "DECLINING"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 400,
+        "messages_this_week": 0,
+        "total_message_count": 3,
+        "total_gift_expenditure": 0,
+        "missed_calls": 5
+      }
+    },
+    {
+      "target_person": "대학 과대표",
+      "relationship_category": "친구/동창",
+      "final_intimacy_score": 30.2,
+      "weighted_metrics": {
+        "recency_score": 20,
+        "frequency_score": 10,
+        "responsiveness": "LOW",
+        "gift_score": 5,
+        "context_score": 40,
+        "interaction_trend": "DECLINING"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 120,
+        "messages_this_week": 0,
+        "total_message_count": 2,
+        "total_gift_expenditure": 10000,
+        "missed_calls": 0
+      }
+    },
+    {
+      "target_person": "고등학교 은사님",
+      "relationship_category": "기타",
+      "final_intimacy_score": 27.8,
+      "weighted_metrics": {
+        "recency_score": 12,
+        "frequency_score": 8,
+        "responsiveness": "LOW",
+        "gift_score": 15,
+        "context_score": 35,
+        "interaction_trend": "DECLINING"
+      },
+      "raw_stats_summary": {
+        "last_contact_days_ago": 200,
+        "messages_this_week": 0,
+        "total_message_count": 1,
+        "total_gift_expenditure": 30000,
+        "missed_calls": 1
+      }
+    }
+  ]
+}

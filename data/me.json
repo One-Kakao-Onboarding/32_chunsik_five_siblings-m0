@@ -1,0 +1,10 @@
+{
+  "me": {
+    "id": 1,
+    "name": "김광일",
+    "position": "영업1팀 팀장",
+    "age": 45,
+    "profileImg": "https://i.pravatar.cc/150?u=my_account_1",
+    "statusMsg": "신뢰가 실력입니다. 부재 시 문자 바랍니다."
+  }
+}
