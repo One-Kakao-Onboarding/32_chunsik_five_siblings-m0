@@ -11,7 +11,7 @@ export function SplashScreen({ onComplete }: SplashScreenProps) {
   useEffect(() => {
     const timer = setTimeout(() => {
       onComplete()
-    }, 1000)
+    }, 3000) // 1초에서 3초로 변경
 
     return () => clearTimeout(timer)
   }, [onComplete])
