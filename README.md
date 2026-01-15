@@ -27,7 +27,7 @@
 
 ## 프로젝트 구조
 
-```
+\`\`\`
 ├── app/
 │   ├── page.tsx                    # 메인 페이지 (슬라이드 컨트롤러)
 │   ├── layout.tsx                  # 레이아웃 설정
@@ -46,13 +46,13 @@
 │   └── intimacy_scores.json        # 관계 데이터 (샘플)
 └── public/
     └── images/                     # 마스코트 이미지
-```
+\`\`\`
 
 ## 데이터 구조
 
 ### intimacy_scores.json
 
-```json
+\`\`\`json
 {
   "results": [
     {
@@ -76,13 +76,13 @@
     }
   ]
 }
-```
+\`\`\`
 
 ## 환경 변수
 
-```
+\`\`\`
 OPENAI_API_KEY=your_openai_api_key
-```
+\`\`\`
 
 ## 실행 방법
 
