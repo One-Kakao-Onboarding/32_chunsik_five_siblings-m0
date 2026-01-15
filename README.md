@@ -98,3 +98,4 @@ OPENAI_API_KEY=your_openai_api_key
 - 신난 태양이: 연락 순위 슬라이드
 - 통계분석 태양이: 분석 결과 페이지
 # 32_chunsik_five_siblings-m0
+# 32_chunsik_five_siblings-m0
